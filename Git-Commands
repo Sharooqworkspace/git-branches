@@ -1,0 +1,14 @@
+git init    --> For Initialization
+git add filename --> Staging process for adding a file
+git commit -m "messeage" --> For tracking and adding file in the Git
+git branch -M branchname --> Creating main branch name
+git branch branchname --> Creating normal branch
+git remote add/set-url origin "url" --> Connecting git to github repository
+git push origin branchname --> Sending from git to github repository branch
+git merge branchname --> Adding files from one branch to another branch
+git switch branchname --> Switching one branch to another branch
+git pull --rebase origin branchname --> Getting the files from a particular repository branch
+git stash push -m "messeage" --> Working on hidden content in a file
+git stash pop --> Restore the hidden content
+git status --> Checking the tracked and untracked files
+git clone --> Copy contents from one repository
